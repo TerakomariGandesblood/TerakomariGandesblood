@@ -2,7 +2,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/TerakomariGandesblood)
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
