@@ -9,4 +9,4 @@
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org)
 
-[![Terakomari's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TerakomariGandesblood&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/TerakomariGandesblood)
+[![Terakomari's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerakomariGandesblood&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/TerakomariGandesblood)
